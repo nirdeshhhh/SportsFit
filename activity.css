@@ -1,0 +1,24 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-type: none;
+    
+  
+  }
+
+  .content a{
+    text-decoratiom: none;
+    position: absolute;
+    display: flex;
+    color: orange;
+    font-size: 24px;
+    /* border: px solid #fff; */
+    /* padding: 14px 70px; */
+    /* border-radius: 50px; */
+    /* margin-top: 20; */
+
+  }
+  
